@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Girg-0
+- Currently learning JavaScript.
+- Guidance is appreciated.
